@@ -1,4 +1,6 @@
 # 🚊 Optimizing Urban Transit Through Data: EDA for MetroMove Transit Solutions
+<img width="1795" height="701" alt="image" src="https://github.com/user-attachments/assets/d20c5e8d-9942-47ec-ab25-1cdf635039a4" />
+
 
 ## 📘 Background
 MetroMove Transit Solutions is a multi-city public transportation provider operating buses, trains, ferries, and trams. The company’s goal is to offer efficient, affordable, and timely services while improving passenger experience through data-driven decision-making.
